@@ -14,3 +14,13 @@ Using simple formulas you can easily calculate distance, speed and time as below
 * distance divided by speed equals ***time***
 
               S / v = t
+
+### Comments 
+At the moment we are studying **Git** module. 
+We have already studied about Version Control System, its types, about Git and GitHub, Markdown and Commit. 
+
+There are the following issues that are to be studied: 
+* ***Branch*** 
+* ***Push*** 
+* ***Pull / Fetch*** 
+* ***Merge*** 
