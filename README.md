@@ -24,4 +24,5 @@ There are the following issues that are to be studied:
 * ***Push*** 
 * ***Pull / Fetch*** 
 * ***Merge*** 
-* ***Additional Git Features***
+* ***Additional Git features*** such as ***Amend, Discard, Stash, Cherry-pick, Revert***
+
