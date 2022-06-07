@@ -6,9 +6,7 @@
 **IF** + **Present Simple**, **Present Simple**
 
 ***Usage***:
-* General truths; 
-* Habits; 
-* Real World; 
+* General truths, Habits, Real World; 
 
 ***Example***:
 If you heat water, it boils. 
